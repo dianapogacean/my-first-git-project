@@ -13,4 +13,7 @@ public class Calculator {
         return x * y;
     }
 
+    public int sub(int a, int b){
+        return a-b;
+    }
 }
